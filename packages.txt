@@ -1,0 +1,26 @@
+# I don't know how you prefer to install packages so I am just keeping a list here
+
+alacritty
+cowsay
+figlet
+file-roller
+flatpak
+fonts-firacode
+gnome-shell-extension-manager
+lm-sensors
+lolcat
+neofetch
+neovim
+nvtop
+obsidianmd
+php
+ppsspp
+rdfind
+rsync
+steam
+telegram-desktop
+tidy
+tmux
+vlc
+yt-dlp
+zed-editor
