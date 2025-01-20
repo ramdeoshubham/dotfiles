@@ -8,6 +8,8 @@ Currenlty this repo contains configs for:
 2. zed editor
 3. vim / nvim editor
 
+- And also a list of some packages I frequently use, see packages.txt.
+
 ![](preview.png)
 
 I will be adding more soon. I started this repo just for a few friends of mine who keep asking me for same config files. 
